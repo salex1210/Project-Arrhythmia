@@ -83,3 +83,23 @@ El modelo entrenado alcanza una precisión adecuada para la clasificación de ar
 
 La métrica de **accuracy final** se encuentra registrada directamente en el notebook:
 
+
+## Dataset
+
+Los datos utilizados en este proyecto no se incluyen en el repositorio
+debido a restricciones de tamaño de GitHub.
+
+Pueden descargarse desde:
+
+[https://drive.google.com/xxxxx
+](https://drive.google.com/drive/folders/199fls6GPwJMOkrEvnkfBpgcnEFL2Eoj6)
+
+Archivos:
+
+- training_set_500.h5
+- test_without_labels_200.h5
+
+Una vez descargados, deben ubicarse en la carpeta:
+
+data/
+
